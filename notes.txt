@@ -1,0 +1,2 @@
+1 - Git is a tool developers use to track changes they make in their code. It also helps them to go back to older versions if needed.
+2 - GitHub is a website that developers use to store their Git projects. It makes it easier to share code and work with other people on projects.
